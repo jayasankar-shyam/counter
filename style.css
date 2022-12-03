@@ -1,7 +1,14 @@
-.content {
-    margin: auto;
-    justify-content: center;
+body{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 650px;
   }
+#label{
+  text-align: center;
+  font-size:32px;
+}
 #counter-up,#counter-down{
     background-color: #574caf;
     border-radius: 50%;

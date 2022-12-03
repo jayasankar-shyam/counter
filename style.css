@@ -1,0 +1,17 @@
+.content {
+    margin: auto;
+    justify-content: center;
+  }
+#counter-up,#counter-down{
+    background-color: #574caf;
+    border-radius: 50%;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

@@ -8,7 +8,7 @@ counter_up.addEventListener("click", () => {
   count += 1
   label.innerHTML = count
 })
-counter_down.addEventListener("click",() => ){
+counter_down.addEventListener("click",() =>{
     count-=1
     label.innerHTML = count
-}
+})
